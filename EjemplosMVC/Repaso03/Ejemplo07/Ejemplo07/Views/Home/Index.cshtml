@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    List<Model.Paciente> pacientes = ViewBag.paciente;
+}
+
+<h2>Index</h2>
+@foreach(var a in pacientes)
+{
+    <h5>@a.dni  @a.nombre  @a.estado</h5>    
+}
+

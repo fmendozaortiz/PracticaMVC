@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    List <Model.Pelicula> pelicula= ViewBag.peliculas;
+}
+
+<h2>Index</h2>
+@foreach (var a in pelicula)
+{
+    <h5>@a.id @a.nombre</h5>
+}
+

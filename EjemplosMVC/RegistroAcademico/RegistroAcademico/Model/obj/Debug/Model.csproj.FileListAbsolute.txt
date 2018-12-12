@@ -1,0 +1,8 @@
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\bin\Debug\Model.dll
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\bin\Debug\Model.pdb
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\bin\Debug\EntityFramework.dll
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\bin\Debug\EntityFramework.xml
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\obj\Debug\Model.dll
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\RegistroAcademico\RegistroAcademico\Model\obj\Debug\Model.pdb

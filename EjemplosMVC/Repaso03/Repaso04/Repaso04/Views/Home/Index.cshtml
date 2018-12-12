@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Index";
+    List<Model.Pelicula> peliculas = ViewBag.pelicula;
+}
+
+<h4>Nos encontramos en el Index</h4>
+
+@foreach (var a in peliculas)
+{
+   <h4>id: @a.id @a.nombre</h4>    
+   
+}
+@{Html.RenderAction("Acerca");}
+@Html.Display("valor")

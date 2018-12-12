@@ -1,0 +1,33 @@
+﻿@model List<Model.Pelicula>
+@{
+    ViewBag.Title = "Index";
+}
+
+@*<h4>@Model.Titulo</h4>
+<h5>Duración: @Model.Duracion</h5>
+<h5>Publicación: @Model.Publicacion.ToString("dd/mm/yyyy")</h5>
+<h5>Filmado en: @Model.Pais</h5>*@
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Titulo</th>
+            <th>Duración</th>
+            <th>País</th>
+            <th>Lanzamiento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td>@a.Titulo</td>
+                <td>@a.Duracion</td>
+                <td>@a.Pais</td>
+                <td>@a.Publicacion.ToString("dd/mm/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

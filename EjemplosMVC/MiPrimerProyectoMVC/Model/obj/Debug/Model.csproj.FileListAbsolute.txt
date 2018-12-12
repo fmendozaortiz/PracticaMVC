@@ -1,0 +1,5 @@
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\fmendoza\Documents\PracticaVS\PracticaMVC\EjemplosMVC\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb

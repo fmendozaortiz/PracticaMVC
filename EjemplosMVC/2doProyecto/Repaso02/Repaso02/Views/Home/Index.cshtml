@@ -1,0 +1,17 @@
+﻿@model List<Model.Alumno>
+@{
+    
+    List<Model.Alumno> alumnos = ViewBag.Alumnos;
+}
+<h2 class="page-header">
+    Alumnos
+</h2>
+<p>
+    <ul>
+        @foreach (var a in Model)
+        {
+            <li><b>Id=</b> @a.id <b>Nombre=</b>@a.nombre</li>
+        }
+    </ul>
+
+</p>
